@@ -1,3 +1,5 @@
+This code is associated with the paper from Bolger-Munro et al 2019. eLife: http://dx.doi.org/10.7554/eLife.44574
+
 All files contained in this folder/repository are free software: 
 you can redistribute them and/or modify them under the terms of the 
 GNU General Public License as published by the Free Software Foundation, 
